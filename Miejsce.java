@@ -105,5 +105,4 @@ public class Miejsce {
 	public String toString() {
 		return "Miejsce " + nrMiejsca;
 	}
-
 }
